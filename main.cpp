@@ -216,7 +216,7 @@ void sorting()
 }
 void mode1()
 {
-
+    printf("Test");
 }
 void mode2()
 {
