@@ -2,6 +2,7 @@
 #include <string.h>
 #define N 10
 int keynum=5; //키워드 개수
+int nadfasd = 1;
 typedef struct w
 {
     char word[16];
